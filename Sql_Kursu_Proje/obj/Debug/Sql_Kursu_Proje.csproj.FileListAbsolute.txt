@@ -1,0 +1,15 @@
+C:\Users\besmu\source\repos\Sql_Kursu_Proje\Sql_Kursu_Proje\bin\Debug\Sql_Kursu_Proje.exe.config
+C:\Users\besmu\source\repos\Sql_Kursu_Proje\Sql_Kursu_Proje\bin\Debug\Sql_Kursu_Proje.exe
+C:\Users\besmu\source\repos\Sql_Kursu_Proje\Sql_Kursu_Proje\bin\Debug\Sql_Kursu_Proje.pdb
+C:\Users\besmu\source\repos\Sql_Kursu_Proje\Sql_Kursu_Proje\obj\Debug\Sql_Kursu_Proje.csproj.AssemblyReference.cache
+C:\Users\besmu\source\repos\Sql_Kursu_Proje\Sql_Kursu_Proje\obj\Debug\Sql_Kursu_Proje.Form1.resources
+C:\Users\besmu\source\repos\Sql_Kursu_Proje\Sql_Kursu_Proje\obj\Debug\Sql_Kursu_Proje.Properties.Resources.resources
+C:\Users\besmu\source\repos\Sql_Kursu_Proje\Sql_Kursu_Proje\obj\Debug\Sql_Kursu_Proje.csproj.GenerateResource.cache
+C:\Users\besmu\source\repos\Sql_Kursu_Proje\Sql_Kursu_Proje\obj\Debug\Sql_Kursu_Proje.csproj.CoreCompileInputs.cache
+C:\Users\besmu\source\repos\Sql_Kursu_Proje\Sql_Kursu_Proje\obj\Debug\Sql_Kursu_Proje.exe
+C:\Users\besmu\source\repos\Sql_Kursu_Proje\Sql_Kursu_Proje\obj\Debug\Sql_Kursu_Proje.pdb
+C:\Users\besmu\source\repos\Sql_Kursu_Proje\Sql_Kursu_Proje\obj\Debug\Sql_Kursu_Proje.FrmMusteri.resources
+C:\Users\besmu\source\repos\Sql_Kursu_Proje\Sql_Kursu_Proje\obj\Debug\Sql_Kursu_Proje.FrmKategori.resources
+C:\Users\besmu\source\repos\Sql_Kursu_Proje\Sql_Kursu_Proje\obj\Debug\Sql_Kursu_Proje.Urunler.resources
+C:\Users\besmu\source\repos\Sql_Kursu_Proje\Sql_Kursu_Proje\obj\Debug\Sql_Kursu_Proje.FrmPersonel.resources
+C:\Users\besmu\source\repos\Sql_Kursu_Proje\Sql_Kursu_Proje\obj\Debug\Sql_Kursu_Proje.FrmHareketler.resources
