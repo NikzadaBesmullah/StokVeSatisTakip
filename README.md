@@ -1,0 +1,2 @@
+# StokVeSatisTakip
+ 
