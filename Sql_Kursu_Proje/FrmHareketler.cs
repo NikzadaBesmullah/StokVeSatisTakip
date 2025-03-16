@@ -20,11 +20,77 @@ namespace Sql_Kursu_Proje
         Baglanti bgl = new Baglanti();
         private void FrmHareketler_Load(object sender, EventArgs e)
         {
-            SqlCommand k= new SqlCommand("SELECT dbo.Tbl_Musteri.MusteriAd, dbo.Tbl_Musteri.MusteriSoyad, dbo.Tbl_Musteri.MusteriSehir, dbo.Tbl_Personel.PersonelAdSoyad, dbo.Tbl_Urunler.UrunAd, dbo.Tbl_Urunler.UrunMarka, dbo.Tbl_Kategori.KategoriAd, \r\n                  dbo.Tbl_Hareket.Hareketid\r\nFROM     dbo.Tbl_Hareket INNER JOIN\r\n                  dbo.Tbl_Musteri ON dbo.Tbl_Hareket.Musteri = dbo.Tbl_Musteri.Musteriid INNER JOIN\r\n                  dbo.Tbl_Personel ON dbo.Tbl_Hareket.Personel = dbo.Tbl_Personel.Personelid INNER JOIN\r\n                  dbo.Tbl_Urunler ON dbo.Tbl_Hareket.Urun = dbo.Tbl_Urunler.Urunid INNER JOIN\r\n                  dbo.Tbl_Kategori ON dbo.Tbl_Urunler.Kategori = dbo.Tbl_Kategori.Kategoriid\r\nWHERE  (dbo.Tbl_Musteri.MusteriSehir = 'istanbul')", bgl.SqlBaglanti());
-            SqlDataAdapter da = new SqlDataAdapter(k);   
-            DataTable dt = new DataTable(); 
+            SqlCommand l = new SqlCommand("execute Hareketler", bgl.SqlBaglanti());
+            SqlDataAdapter da = new SqlDataAdapter(l);
+            DataTable dt = new DataTable();
             da.Fill(dt);
-            dataGridView1.DataSource = dt;  
+            dataGridView1.DataSource = dt;
+
+
+            //combo musteir çekme
+
+            SqlCommand g = new SqlCommand("select Musteriid,MusteriAd,MusteriSoyad From Tbl_Musteri", bgl.SqlBaglanti());
+            SqlDataAdapter sqlDataAdapter = new SqlDataAdapter(g);
+            DataTable dt1 = new DataTable();
+            sqlDataAdapter.Fill(dt1);
+            cmbMusteri.DisplayMember = "MusteriAd";
+            cmbMusteri.ValueMember = "Musteriid";
+            
+            cmbMusteri.DataSource = dt1;
+
+
+
+            //PErosnle Çekme
+
+            SqlCommand p = new SqlCommand("select Personelid,PersonelAdSoyad From Tbl_Personel", bgl.SqlBaglanti());
+            SqlDataAdapter da1 = new SqlDataAdapter(p);
+            DataTable dt2 = new DataTable();
+            da1.Fill(dt2);
+            cmbPersonel.DisplayMember = "PersonelAdSoyad";
+            cmbPersonel.ValueMember = "Personelid";
+            cmbPersonel.DataSource = dt2;
+
+
+
+            //ÜRün Çekme
+
+            SqlCommand u = new SqlCommand("select Urunid,UrunAd,UrunMarka from Tbl_Urunler",bgl.SqlBaglanti());
+            SqlDataAdapter da2= new SqlDataAdapter(u);
+            DataTable dt3= new DataTable();
+            da2.Fill(dt3);
+            cmbUrun.DisplayMember = "UrunAd";
+            cmbUrun.ValueMember = "Urunid";
+            cmbMarka.DisplayMember = "UrunMarka";
+           
+            cmbUrun.DataSource = dt3;
+            cmbMarka.DataSource = dt3;
+
+            
+
+        }
+
+        private void cmbUrun_SelectedIndexChanged(object sender, EventArgs e)
+        {
+           
+        }
+
+        private void btnSatis_Click(object sender, EventArgs e)
+        {
+            SqlCommand satis = new SqlCommand("insert into Tbl_Hareket (Urun,Musteri,Personel,Adet,Tutar,Tarih,Marka) values (@a1,@a2,@a3,@a4,@a5,@a6,@a7)",bgl.SqlBaglanti());
+            satis.Parameters.AddWithValue("@a1",cmbUrun.SelectedValue);
+            satis.Parameters.AddWithValue("@a2",cmbMusteri.SelectedValue);
+            satis.Parameters.AddWithValue("@a3",cmbPersonel.SelectedValue);
+            satis.Parameters.AddWithValue("@a7",cmbMarka.SelectedText.ToString());
+            satis.Parameters.AddWithValue("@a4",txtAdet.Text);
+            satis.Parameters.AddWithValue("@a5",txtFiyat.Text);
+            satis.Parameters.AddWithValue("@a6", DateTime.Parse(txtTarih.Text));
+            satis.ExecuteNonQuery();
+            MessageBox.Show("Satiş Başarıyla Gerçekleştirilmiştir.");
+        }
+
+        private void cmbMarka_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
         }
     }
 }

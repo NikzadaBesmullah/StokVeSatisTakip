@@ -13,3 +13,5 @@ C:\Users\besmu\source\repos\Sql_Kursu_Proje\Sql_Kursu_Proje\obj\Debug\Sql_Kursu_
 C:\Users\besmu\source\repos\Sql_Kursu_Proje\Sql_Kursu_Proje\obj\Debug\Sql_Kursu_Proje.Urunler.resources
 C:\Users\besmu\source\repos\Sql_Kursu_Proje\Sql_Kursu_Proje\obj\Debug\Sql_Kursu_Proje.FrmPersonel.resources
 C:\Users\besmu\source\repos\Sql_Kursu_Proje\Sql_Kursu_Proje\obj\Debug\Sql_Kursu_Proje.FrmHareketler.resources
+C:\Users\besmu\source\repos\Sql_Kursu_Proje\Sql_Kursu_Proje\obj\Debug\Sql_Kursu_Proje.FrmAdmin.resources
+C:\Users\besmu\source\repos\Sql_Kursu_Proje\Sql_Kursu_Proje\obj\Debug\Sql_Kursu_Proje.Frmİstatistik.resources

@@ -150,6 +150,7 @@
             this.Controls.Add(this.label1);
             this.Controls.Add(this.dataGridView1);
             this.Name = "FrmKategori";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "FrmUrunler";
             this.Load += new System.EventHandler(this.FrmUrunler_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();

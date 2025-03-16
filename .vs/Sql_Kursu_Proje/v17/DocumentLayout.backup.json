@@ -3,56 +3,56 @@
   "WorkspaceRootPath": "C:\\Users\\besmu\\source\\repos\\Sql_Kursu_Proje\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4EBA416E-C41B-45BC-82B3-9AC83004C4A7}|Sql_Kursu_Proje\\Sql_Kursu_Proje.csproj|c:\\users\\besmu\\source\\repos\\sql_kursu_proje\\sql_kursu_proje\\frmkategori.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4EBA416E-C41B-45BC-82B3-9AC83004C4A7}|Sql_Kursu_Proje\\Sql_Kursu_Proje.csproj|solutionrelative:sql_kursu_proje\\frmkategori.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{4EBA416E-C41B-45BC-82B3-9AC83004C4A7}|Sql_Kursu_Proje\\Sql_Kursu_Proje.csproj|C:\\Users\\besmu\\source\\repos\\Sql_Kursu_Proje\\sql_kursu_proje\\frm\u0130statistik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4EBA416E-C41B-45BC-82B3-9AC83004C4A7}|Sql_Kursu_Proje\\Sql_Kursu_Proje.csproj|solutionrelative:sql_kursu_proje\\frm\u0130statistik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4EBA416E-C41B-45BC-82B3-9AC83004C4A7}|Sql_Kursu_Proje\\Sql_Kursu_Proje.csproj|C:\\Users\\besmu\\source\\repos\\Sql_Kursu_Proje\\sql_kursu_proje\\frmhareketler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{4EBA416E-C41B-45BC-82B3-9AC83004C4A7}|Sql_Kursu_Proje\\Sql_Kursu_Proje.csproj|solutionrelative:sql_kursu_proje\\frmhareketler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{4EBA416E-C41B-45BC-82B3-9AC83004C4A7}|Sql_Kursu_Proje\\Sql_Kursu_Proje.csproj|C:\\Users\\besmu\\source\\repos\\Sql_Kursu_Proje\\sql_kursu_proje\\frmadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4EBA416E-C41B-45BC-82B3-9AC83004C4A7}|Sql_Kursu_Proje\\Sql_Kursu_Proje.csproj|solutionrelative:sql_kursu_proje\\frmadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4EBA416E-C41B-45BC-82B3-9AC83004C4A7}|Sql_Kursu_Proje\\Sql_Kursu_Proje.csproj|C:\\Users\\besmu\\source\\repos\\Sql_Kursu_Proje\\sql_kursu_proje\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{4EBA416E-C41B-45BC-82B3-9AC83004C4A7}|Sql_Kursu_Proje\\Sql_Kursu_Proje.csproj|solutionrelative:sql_kursu_proje\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4EBA416E-C41B-45BC-82B3-9AC83004C4A7}|Sql_Kursu_Proje\\Sql_Kursu_Proje.csproj|C:\\Users\\besmu\\source\\repos\\Sql_Kursu_Proje\\sql_kursu_proje\\urunler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4EBA416E-C41B-45BC-82B3-9AC83004C4A7}|Sql_Kursu_Proje\\Sql_Kursu_Proje.csproj|solutionrelative:sql_kursu_proje\\urunler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4EBA416E-C41B-45BC-82B3-9AC83004C4A7}|Sql_Kursu_Proje\\Sql_Kursu_Proje.csproj|C:\\Users\\besmu\\source\\repos\\Sql_Kursu_Proje\\sql_kursu_proje\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4EBA416E-C41B-45BC-82B3-9AC83004C4A7}|Sql_Kursu_Proje\\Sql_Kursu_Proje.csproj|c:\\users\\besmu\\source\\repos\\sql_kursu_proje\\sql_kursu_proje\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4EBA416E-C41B-45BC-82B3-9AC83004C4A7}|Sql_Kursu_Proje\\Sql_Kursu_Proje.csproj|solutionrelative:sql_kursu_proje\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4EBA416E-C41B-45BC-82B3-9AC83004C4A7}|Sql_Kursu_Proje\\Sql_Kursu_Proje.csproj|C:\\Users\\besmu\\source\\repos\\Sql_Kursu_Proje\\sql_kursu_proje\\frmkategori.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4EBA416E-C41B-45BC-82B3-9AC83004C4A7}|Sql_Kursu_Proje\\Sql_Kursu_Proje.csproj|solutionrelative:sql_kursu_proje\\frmkategori.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4EBA416E-C41B-45BC-82B3-9AC83004C4A7}|Sql_Kursu_Proje\\Sql_Kursu_Proje.csproj|C:\\Users\\besmu\\source\\repos\\Sql_Kursu_Proje\\sql_kursu_proje\\frmmusteri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4EBA416E-C41B-45BC-82B3-9AC83004C4A7}|Sql_Kursu_Proje\\Sql_Kursu_Proje.csproj|solutionrelative:sql_kursu_proje\\frmmusteri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4EBA416E-C41B-45BC-82B3-9AC83004C4A7}|Sql_Kursu_Proje\\Sql_Kursu_Proje.csproj|C:\\Users\\besmu\\source\\repos\\Sql_Kursu_Proje\\sql_kursu_proje\\frmpersonel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{4EBA416E-C41B-45BC-82B3-9AC83004C4A7}|Sql_Kursu_Proje\\Sql_Kursu_Proje.csproj|solutionrelative:sql_kursu_proje\\frmpersonel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4EBA416E-C41B-45BC-82B3-9AC83004C4A7}|Sql_Kursu_Proje\\Sql_Kursu_Proje.csproj|C:\\Users\\besmu\\source\\repos\\Sql_Kursu_Proje\\sql_kursu_proje\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4EBA416E-C41B-45BC-82B3-9AC83004C4A7}|Sql_Kursu_Proje\\Sql_Kursu_Proje.csproj|solutionrelative:sql_kursu_proje\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4EBA416E-C41B-45BC-82B3-9AC83004C4A7}|Sql_Kursu_Proje\\Sql_Kursu_Proje.csproj|C:\\Users\\besmu\\source\\repos\\Sql_Kursu_Proje\\sql_kursu_proje\\frmhareketler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4EBA416E-C41B-45BC-82B3-9AC83004C4A7}|Sql_Kursu_Proje\\Sql_Kursu_Proje.csproj|solutionrelative:sql_kursu_proje\\frmhareketler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4EBA416E-C41B-45BC-82B3-9AC83004C4A7}|Sql_Kursu_Proje\\Sql_Kursu_Proje.csproj|C:\\Users\\besmu\\source\\repos\\Sql_Kursu_Proje\\sql_kursu_proje\\frmpersonel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4EBA416E-C41B-45BC-82B3-9AC83004C4A7}|Sql_Kursu_Proje\\Sql_Kursu_Proje.csproj|solutionrelative:sql_kursu_proje\\frmpersonel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4EBA416E-C41B-45BC-82B3-9AC83004C4A7}|Sql_Kursu_Proje\\Sql_Kursu_Proje.csproj|C:\\Users\\besmu\\source\\repos\\Sql_Kursu_Proje\\sql_kursu_proje\\urunler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4EBA416E-C41B-45BC-82B3-9AC83004C4A7}|Sql_Kursu_Proje\\Sql_Kursu_Proje.csproj|solutionrelative:sql_kursu_proje\\urunler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{4EBA416E-C41B-45BC-82B3-9AC83004C4A7}|Sql_Kursu_Proje\\Sql_Kursu_Proje.csproj|C:\\Users\\besmu\\source\\repos\\Sql_Kursu_Proje\\sql_kursu_proje\\urunler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4EBA416E-C41B-45BC-82B3-9AC83004C4A7}|Sql_Kursu_Proje\\Sql_Kursu_Proje.csproj|solutionrelative:sql_kursu_proje\\urunler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EBA416E-C41B-45BC-82B3-9AC83004C4A7}|Sql_Kursu_Proje\\Sql_Kursu_Proje.csproj|C:\\Users\\besmu\\source\\repos\\Sql_Kursu_Proje\\sql_kursu_proje\\frmkategori.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4EBA416E-C41B-45BC-82B3-9AC83004C4A7}|Sql_Kursu_Proje\\Sql_Kursu_Proje.csproj|solutionrelative:sql_kursu_proje\\frmkategori.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4EBA416E-C41B-45BC-82B3-9AC83004C4A7}|Sql_Kursu_Proje\\Sql_Kursu_Proje.csproj|C:\\Users\\besmu\\source\\repos\\Sql_Kursu_Proje\\sql_kursu_proje\\frmmusteri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{4EBA416E-C41B-45BC-82B3-9AC83004C4A7}|Sql_Kursu_Proje\\Sql_Kursu_Proje.csproj|solutionrelative:sql_kursu_proje\\frmmusteri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EBA416E-C41B-45BC-82B3-9AC83004C4A7}|Sql_Kursu_Proje\\Sql_Kursu_Proje.csproj|C:\\Users\\besmu\\source\\repos\\Sql_Kursu_Proje\\sql_kursu_proje\\frmadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EBA416E-C41B-45BC-82B3-9AC83004C4A7}|Sql_Kursu_Proje\\Sql_Kursu_Proje.csproj|solutionrelative:sql_kursu_proje\\frmadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EBA416E-C41B-45BC-82B3-9AC83004C4A7}|Sql_Kursu_Proje\\Sql_Kursu_Proje.csproj|C:\\Users\\besmu\\source\\repos\\Sql_Kursu_Proje\\sql_kursu_proje\\frmkategori.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EBA416E-C41B-45BC-82B3-9AC83004C4A7}|Sql_Kursu_Proje\\Sql_Kursu_Proje.csproj|solutionrelative:sql_kursu_proje\\frmkategori.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EBA416E-C41B-45BC-82B3-9AC83004C4A7}|Sql_Kursu_Proje\\Sql_Kursu_Proje.csproj|C:\\Users\\besmu\\source\\repos\\Sql_Kursu_Proje\\sql_kursu_proje\\frmpersonel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EBA416E-C41B-45BC-82B3-9AC83004C4A7}|Sql_Kursu_Proje\\Sql_Kursu_Proje.csproj|solutionrelative:sql_kursu_proje\\frmpersonel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -65,15 +65,44 @@
           "SelectedChildIndex": 6,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\besmu\\source\\repos\\Sql_Kursu_Proje\\Sql_Kursu_Proje\\Form1.cs",
+              "RelativeDocumentMoniker": "Sql_Kursu_Proje\\Form1.cs",
+              "ToolTip": "C:\\Users\\besmu\\source\\repos\\Sql_Kursu_Proje\\Sql_Kursu_Proje\\Form1.cs [Design]",
+              "RelativeToolTip": "Sql_Kursu_Proje\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T20:59:23.14Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmAdmin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\besmu\\source\\repos\\Sql_Kursu_Proje\\Sql_Kursu_Proje\\FrmAdmin.cs",
+              "RelativeDocumentMoniker": "Sql_Kursu_Proje\\FrmAdmin.cs",
+              "ToolTip": "C:\\Users\\besmu\\source\\repos\\Sql_Kursu_Proje\\Sql_Kursu_Proje\\FrmAdmin.cs [Design]",
+              "RelativeToolTip": "Sql_Kursu_Proje\\FrmAdmin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T23:26:04.652Z",
+              "EditorCaption": " [Design]"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "FrmPersonel.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\besmu\\source\\repos\\Sql_Kursu_Proje\\Sql_Kursu_Proje\\FrmPersonel.cs",
-              "RelativeDocumentMoniker": "Sql_Kursu_Proje\\FrmPersonel.cs",
-              "ToolTip": "C:\\Users\\besmu\\source\\repos\\Sql_Kursu_Proje\\Sql_Kursu_Proje\\FrmPersonel.cs [Design]",
-              "RelativeToolTip": "Sql_Kursu_Proje\\FrmPersonel.cs [Design]",
+              "Title": "Urunler.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\besmu\\source\\repos\\Sql_Kursu_Proje\\Sql_Kursu_Proje\\Urunler.cs",
+              "RelativeDocumentMoniker": "Sql_Kursu_Proje\\Urunler.cs",
+              "ToolTip": "C:\\Users\\besmu\\source\\repos\\Sql_Kursu_Proje\\Sql_Kursu_Proje\\Urunler.cs [Design]",
+              "RelativeToolTip": "Sql_Kursu_Proje\\Urunler.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T20:21:23.718Z"
+              "WhenOpened": "2025-03-07T19:15:28.674Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
@@ -84,11 +113,99 @@
               "ToolTip": "C:\\Users\\besmu\\source\\repos\\Sql_Kursu_Proje\\Sql_Kursu_Proje\\FrmHareketler.cs [Design]",
               "RelativeToolTip": "Sql_Kursu_Proje\\FrmHareketler.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T20:36:52.396Z"
+              "WhenOpened": "2025-03-07T20:36:52.396Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "FrmPersonel.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\besmu\\source\\repos\\Sql_Kursu_Proje\\Sql_Kursu_Proje\\FrmPersonel.cs",
+              "RelativeDocumentMoniker": "Sql_Kursu_Proje\\FrmPersonel.cs",
+              "ToolTip": "C:\\Users\\besmu\\source\\repos\\Sql_Kursu_Proje\\Sql_Kursu_Proje\\FrmPersonel.cs [Design]",
+              "RelativeToolTip": "Sql_Kursu_Proje\\FrmPersonel.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T20:21:23.718Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Frm\u0130statistik.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\besmu\\source\\repos\\Sql_Kursu_Proje\\Sql_Kursu_Proje\\Frm\u0130statistik.cs",
+              "RelativeDocumentMoniker": "Sql_Kursu_Proje\\Frm\u0130statistik.cs",
+              "ToolTip": "C:\\Users\\besmu\\source\\repos\\Sql_Kursu_Proje\\Sql_Kursu_Proje\\Frm\u0130statistik.cs [Design]",
+              "RelativeToolTip": "Sql_Kursu_Proje\\Frm\u0130statistik.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T23:55:07.54Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\besmu\\source\\repos\\Sql_Kursu_Proje\\Sql_Kursu_Proje\\Program.cs",
+              "RelativeDocumentMoniker": "Sql_Kursu_Proje\\Program.cs",
+              "ToolTip": "C:\\Users\\besmu\\source\\repos\\Sql_Kursu_Proje\\Sql_Kursu_Proje\\Program.cs",
+              "RelativeToolTip": "Sql_Kursu_Proje\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T19:28:05.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FrmKategori.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\besmu\\source\\repos\\Sql_Kursu_Proje\\Sql_Kursu_Proje\\FrmKategori.cs",
+              "RelativeDocumentMoniker": "Sql_Kursu_Proje\\FrmKategori.cs",
+              "ToolTip": "C:\\Users\\besmu\\source\\repos\\Sql_Kursu_Proje\\Sql_Kursu_Proje\\FrmKategori.cs [Design]",
+              "RelativeToolTip": "Sql_Kursu_Proje\\FrmKategori.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T21:11:50.872Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Urunler.cs",
+              "DocumentMoniker": "C:\\Users\\besmu\\source\\repos\\Sql_Kursu_Proje\\Sql_Kursu_Proje\\Urunler.cs",
+              "RelativeDocumentMoniker": "Sql_Kursu_Proje\\Urunler.cs",
+              "ToolTip": "C:\\Users\\besmu\\source\\repos\\Sql_Kursu_Proje\\Sql_Kursu_Proje\\Urunler.cs",
+              "RelativeToolTip": "Sql_Kursu_Proje\\Urunler.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowCQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T19:24:08.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FrmMusteri.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\besmu\\source\\repos\\Sql_Kursu_Proje\\Sql_Kursu_Proje\\FrmMusteri.cs",
+              "RelativeDocumentMoniker": "Sql_Kursu_Proje\\FrmMusteri.cs",
+              "ToolTip": "C:\\Users\\besmu\\source\\repos\\Sql_Kursu_Proje\\Sql_Kursu_Proje\\FrmMusteri.cs [Design]",
+              "RelativeToolTip": "Sql_Kursu_Proje\\FrmMusteri.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T19:18:04.788Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FrmAdmin.cs",
+              "DocumentMoniker": "C:\\Users\\besmu\\source\\repos\\Sql_Kursu_Proje\\Sql_Kursu_Proje\\FrmAdmin.cs",
+              "RelativeDocumentMoniker": "Sql_Kursu_Proje\\FrmAdmin.cs",
+              "ToolTip": "C:\\Users\\besmu\\source\\repos\\Sql_Kursu_Proje\\Sql_Kursu_Proje\\FrmAdmin.cs",
+              "RelativeToolTip": "Sql_Kursu_Proje\\FrmAdmin.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAA7wDAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T23:31:34.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "FrmKategori.cs",
               "DocumentMoniker": "C:\\Users\\besmu\\source\\repos\\Sql_Kursu_Proje\\Sql_Kursu_Proje\\FrmKategori.cs",
               "RelativeDocumentMoniker": "Sql_Kursu_Proje\\FrmKategori.cs",
@@ -101,89 +218,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Urunler.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\besmu\\source\\repos\\Sql_Kursu_Proje\\Sql_Kursu_Proje\\Urunler.cs",
-              "RelativeDocumentMoniker": "Sql_Kursu_Proje\\Urunler.cs",
-              "ToolTip": "C:\\Users\\besmu\\source\\repos\\Sql_Kursu_Proje\\Sql_Kursu_Proje\\Urunler.cs [Design]",
-              "RelativeToolTip": "Sql_Kursu_Proje\\Urunler.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T19:15:28.674Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\besmu\\source\\repos\\Sql_Kursu_Proje\\Sql_Kursu_Proje\\Program.cs",
-              "RelativeDocumentMoniker": "Sql_Kursu_Proje\\Program.cs",
-              "ToolTip": "C:\\Users\\besmu\\source\\repos\\Sql_Kursu_Proje\\Sql_Kursu_Proje\\Program.cs",
-              "RelativeToolTip": "Sql_Kursu_Proje\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T21:30:24.474Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\besmu\\source\\repos\\Sql_Kursu_Proje\\Sql_Kursu_Proje\\Form1.cs",
-              "RelativeDocumentMoniker": "Sql_Kursu_Proje\\Form1.cs",
-              "ToolTip": "C:\\Users\\besmu\\source\\repos\\Sql_Kursu_Proje\\Sql_Kursu_Proje\\Form1.cs",
-              "RelativeToolTip": "Sql_Kursu_Proje\\Form1.cs",
-              "ViewState": "AgIAAEkAAAAAAAAAAAAkwFkAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T21:02:44.327Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "FrmKategori.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\besmu\\source\\repos\\Sql_Kursu_Proje\\Sql_Kursu_Proje\\FrmKategori.cs",
-              "RelativeDocumentMoniker": "Sql_Kursu_Proje\\FrmKategori.cs",
-              "ToolTip": "C:\\Users\\besmu\\source\\repos\\Sql_Kursu_Proje\\Sql_Kursu_Proje\\FrmKategori.cs [Design]",
-              "RelativeToolTip": "Sql_Kursu_Proje\\FrmKategori.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T21:11:50.872Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\besmu\\source\\repos\\Sql_Kursu_Proje\\Sql_Kursu_Proje\\Form1.cs",
-              "RelativeDocumentMoniker": "Sql_Kursu_Proje\\Form1.cs",
-              "ToolTip": "C:\\Users\\besmu\\source\\repos\\Sql_Kursu_Proje\\Sql_Kursu_Proje\\Form1.cs [Design]",
-              "RelativeToolTip": "Sql_Kursu_Proje\\Form1.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T20:59:23.14Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "FrmMusteri.cs",
-              "DocumentMoniker": "C:\\Users\\besmu\\source\\repos\\Sql_Kursu_Proje\\Sql_Kursu_Proje\\FrmMusteri.cs",
-              "RelativeDocumentMoniker": "Sql_Kursu_Proje\\FrmMusteri.cs",
-              "ToolTip": "C:\\Users\\besmu\\source\\repos\\Sql_Kursu_Proje\\Sql_Kursu_Proje\\FrmMusteri.cs",
-              "RelativeToolTip": "Sql_Kursu_Proje\\FrmMusteri.cs",
-              "ViewState": "AgIAAEQAAAAAAAAAAAAEwFAAAAA9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T19:24:17.37Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "FrmHareketler.cs",
-              "DocumentMoniker": "C:\\Users\\besmu\\source\\repos\\Sql_Kursu_Proje\\Sql_Kursu_Proje\\FrmHareketler.cs",
-              "RelativeDocumentMoniker": "Sql_Kursu_Proje\\FrmHareketler.cs",
-              "ToolTip": "C:\\Users\\besmu\\source\\repos\\Sql_Kursu_Proje\\Sql_Kursu_Proje\\FrmHareketler.cs",
-              "RelativeToolTip": "Sql_Kursu_Proje\\FrmHareketler.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAcwBYAAAAZAwAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T20:39:44.303Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "FrmPersonel.cs",
               "DocumentMoniker": "C:\\Users\\besmu\\source\\repos\\Sql_Kursu_Proje\\Sql_Kursu_Proje\\FrmPersonel.cs",
               "RelativeDocumentMoniker": "Sql_Kursu_Proje\\FrmPersonel.cs",
@@ -191,30 +226,8 @@
               "RelativeToolTip": "Sql_Kursu_Proje\\FrmPersonel.cs",
               "ViewState": "AgIAADEAAAAAAAAAAAAmwEUAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T20:23:18.863Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Urunler.cs",
-              "DocumentMoniker": "C:\\Users\\besmu\\source\\repos\\Sql_Kursu_Proje\\Sql_Kursu_Proje\\Urunler.cs",
-              "RelativeDocumentMoniker": "Sql_Kursu_Proje\\Urunler.cs",
-              "ToolTip": "C:\\Users\\besmu\\source\\repos\\Sql_Kursu_Proje\\Sql_Kursu_Proje\\Urunler.cs",
-              "RelativeToolTip": "Sql_Kursu_Proje\\Urunler.cs",
-              "ViewState": "AgIAADUAAAAAAAAAAAAIwBYAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T19:24:08.644Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "FrmMusteri.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\besmu\\source\\repos\\Sql_Kursu_Proje\\Sql_Kursu_Proje\\FrmMusteri.cs",
-              "RelativeDocumentMoniker": "Sql_Kursu_Proje\\FrmMusteri.cs",
-              "ToolTip": "C:\\Users\\besmu\\source\\repos\\Sql_Kursu_Proje\\Sql_Kursu_Proje\\FrmMusteri.cs [Design]",
-              "RelativeToolTip": "Sql_Kursu_Proje\\FrmMusteri.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T19:18:04.788Z"
+              "WhenOpened": "2025-03-07T20:23:18.863Z",
+              "EditorCaption": ""
             }
           ]
         }

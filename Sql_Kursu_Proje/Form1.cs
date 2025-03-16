@@ -87,7 +87,13 @@ namespace Sql_Kursu_Proje
 
         private void btnCikis_Click(object sender, EventArgs e)
         {
-            this.Close();   
+            Application.Exit(); 
+        }
+
+        private void btnistatistik_Click(object sender, EventArgs e)
+        {
+            Frmİstatistik fa= new Frmİstatistik();
+            fa.Show();
         }
     }
 }

@@ -21,12 +21,13 @@ namespace Sql_Kursu_Proje
         private void Urunler_Load(object sender, EventArgs e)
         {
             Listele();
-            SqlCommand b= new SqlCommand("select Kategoriid from Tbl_Kategori ",bgl.SqlBaglanti());
-            SqlDataReader reader = b.ExecuteReader();
-            while (reader.Read())
-            {
-                comboBox1.Items.Add(reader[0].ToString());
-            }
+            SqlCommand b= new SqlCommand("select Kategoriid,KategoriAd from Tbl_Kategori ",bgl.SqlBaglanti());
+           SqlDataAdapter dataAdapter = new SqlDataAdapter(b);
+            DataTable dataTable = new DataTable();
+            dataAdapter.Fill(dataTable); 
+            comboBox1.DisplayMember = "KategoriAd";
+            comboBox1.ValueMember = "Kategoriid";
+            comboBox1.DataSource = dataTable;   
         
 
            
@@ -50,7 +51,7 @@ namespace Sql_Kursu_Proje
             SqlCommand k = new SqlCommand("insert into Tbl_Urunler (UrunAd,UrunMarka,Kategori,UrunAlisFiyati,UrunSatisFiyati,UrunStok) values (@a1,@a2,@a3,@a4,@a5,@a6)",bgl.SqlBaglanti());
             k.Parameters.AddWithValue("@a1", txtAd.Text);
             k.Parameters.AddWithValue("@a2", txtMarka.Text);
-            k.Parameters.AddWithValue("@a3", comboBox1.Text);
+            k.Parameters.AddWithValue("@a3", comboBox1.SelectedValue);
             k.Parameters.AddWithValue("@a4", txtAlis.Text);
             k.Parameters.AddWithValue("@a5", txtSatis.Text);
             k.Parameters.AddWithValue("@a6", txtStok.Text);
